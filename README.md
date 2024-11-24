@@ -3,6 +3,8 @@ for the next generation of the internet that aims to decentralize data ownership
 
 In this Project a website was made base on theme travelling
 
+Website: https://2inq3-gaaaa-aaaah-aecua-cai.icp0.io/
+
 for more details: 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
